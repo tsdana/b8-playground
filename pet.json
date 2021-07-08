@@ -1,0 +1,11 @@
+{
+  "id": 123,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Hatiko",
+  "photoUrls": null,
+  "tags": null,
+  "status": "waiting"
+}
